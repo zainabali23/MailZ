@@ -1,1 +1,1 @@
-# MailZen
+# MailZ
